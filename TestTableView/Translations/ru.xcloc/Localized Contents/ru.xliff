@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="TestTableView/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.0" build-num="10A255"/>
+    </header>
+    <body>
+      <trans-unit id="3dE-sr-6C1.placeholder">
+        <source>login</source>
+        <target>Имя пользователя</target>
+        <note>Class = "UITextField"; placeholder = "login"; ObjectID = "3dE-sr-6C1";</note>
+      </trans-unit>
+      <trans-unit id="K8r-Op-5v3.title">
+        <source>Splash Screen</source>
+        <target>Splash Screen</target>
+        <note>Class = "UIViewController"; title = "Splash Screen"; ObjectID = "K8r-Op-5v3";</note>
+      </trans-unit>
+      <trans-unit id="T74-wt-bFc.placeholder">
+        <source>password</source>
+        <target>Пароль</target>
+        <note>Class = "UITextField"; placeholder = "password"; ObjectID = "T74-wt-bFc";</note>
+      </trans-unit>
+      <trans-unit id="fYm-Iv-goF.text">
+        <source>Hello</source>
+        <target>Hello</target>
+        <note>Class = "UILabel"; text = "Hello"; ObjectID = "fYm-Iv-goF";</note>
+      </trans-unit>
+      <trans-unit id="pZf-FM-xAc.normalTitle">
+        <source>Log in</source>
+        <target>Войти</target>
+        <note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "pZf-FM-xAc";</note>
+      </trans-unit>
+      <trans-unit id="uJ2-jg-dHC.normalTitle">
+        <source>Skip</source>
+        <target>Пропустить</target>
+        <note>Class = "UIButton"; normalTitle = "Skip"; ObjectID = "uJ2-jg-dHC";</note>
+      </trans-unit>
+      <trans-unit id="zFp-NN-qja.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "zFp-NN-qja";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="TestTableView/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.0" build-num="10A255"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

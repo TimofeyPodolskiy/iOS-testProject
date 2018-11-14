@@ -1,0 +1,21 @@
+/* Class = "UITextField"; placeholder = "login"; ObjectID = "3dE-sr-6C1"; */
+"3dE-sr-6C1.placeholder" = "Имя пользователя";
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "fYm-Iv-goF"; */
+"fYm-Iv-goF.text" = "Hello";
+
+/* Class = "UIViewController"; title = "Splash Screen"; ObjectID = "K8r-Op-5v3"; */
+"K8r-Op-5v3.title" = "Splash Screen";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "pZf-FM-xAc"; */
+"pZf-FM-xAc.normalTitle" = "Войти";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "T74-wt-bFc"; */
+"T74-wt-bFc.placeholder" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "uJ2-jg-dHC"; */
+"uJ2-jg-dHC.normalTitle" = "Пропустить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zFp-NN-qja"; */
+"zFp-NN-qja.text" = "Label";
+
