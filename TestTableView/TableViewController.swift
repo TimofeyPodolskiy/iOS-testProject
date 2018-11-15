@@ -42,7 +42,8 @@ class TableViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = UITableViewCell(style: .default, reuseIdentifier: nil)
         cell.textLabel?.text = "Test"
-        cell.backgroundColor = #colorLiteral(red: 1, green: 0.2817960053, blue: 0.2250927799, alpha: 1)
+//        cell.backgroundColor = #colorLiteral(red: 1, green: 0.2817960053, blue: 0.2250927799, alpha: 1)
+        cell.backgroundColor = #colorLiteral(red: 0.6666666865, green: 0.6666666865, blue: 0.6666666865, alpha: 1)
 //        cell.separatorInset = UIEdgeInsets.zero
 //        cell.layoutMargins = UIEdgeInsets.zero
         return cell
